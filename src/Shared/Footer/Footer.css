@@ -1,0 +1,8 @@
+.button{
+    border-color: tomato !important;
+    color: red !important;
+}
+.button:hover{
+    border-color: red !important;
+    color: tomato !important;
+}
